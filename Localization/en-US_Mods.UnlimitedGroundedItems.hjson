@@ -5,4 +5,15 @@ Items: {
 		DisplayName: Basic Sword
 		Tooltip: ""
 	}
-} 
+}
+
+Configs: {
+	Config: {
+		DisplayName: Config
+
+		groundedItemsCap: {
+			Label: Items Cap
+			Tooltip: Changes the maximum amount of items that may be on the ground
+		}
+	}
+}
