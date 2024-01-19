@@ -1,12 +1,5 @@
 # This file will automatically update with entries for new content after a build and reload
 
-Items: {
-	BasicSword: {
-		DisplayName: Basic Sword
-		Tooltip: ""
-	}
-}
-
 Configs: {
 	Config: {
 		DisplayName: Config
