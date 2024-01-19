@@ -2,3 +2,4 @@ displayName = Unlimited Grounded Items
 author = Kyryh
 version = 1.0.0
 includeSource = true
+homepage = https://github.com/Kyryh/UnlimitedGroundedItems
