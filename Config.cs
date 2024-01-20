@@ -11,7 +11,7 @@ namespace UnlimitedGroundedItems {
         public override ConfigScope Mode => ConfigScope.ServerSide;
 
         [DefaultValue(1000)]
-        [Range(0, 10000)]
+        [Range(0, 1000000000)]
         [ReloadRequired]
         public int groundedItemsCap;
     }
